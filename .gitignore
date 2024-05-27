@@ -1,0 +1,13 @@
+# Directories
+node_modules/
+coverage/
+dist/
+build/
+
+# Files
+.env
+*.log
+*.pid
+*.sqlite
+*.swp
+*.swo
